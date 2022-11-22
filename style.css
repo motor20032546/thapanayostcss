@@ -1,0 +1,80 @@
+h1{
+    color: rgb(18, 236, 91);
+    
+}
+
+p{
+    color: rgb(89, 0, 255);
+    text-align: center;
+    background-color:beige;
+}
+.title{
+    color: rgb(30, 255, 0);
+    text-align: right;
+}
+
+body{
+    background-image: url("maxresdefault.jpg");
+    background-repeat: no-repeat ;
+    background-position: center;
+}
+
+#teacher{
+    font-size: 90px;
+    color: rgb(255, 0, 128);
+    text-align: center;
+    background-color: brown;
+    padding: 40px;
+}
+
+div{
+    width: 200px;
+    height: 100px;
+
+    float: left;
+}
+
+#box1{
+   
+    background-color: aquamarine;
+    
+}
+
+#box2{
+   
+    background-color: rgb(0, 15, 221);
+   
+}
+
+#box3{
+   
+    background-color: rgb(0, 158, 221);
+  
+}
+
+#box4{
+   
+    background-color: rgb(214, 0, 221);
+  
+}
+
+#box5{
+   
+    background-color: rgb(221, 0, 0);
+  
+}
+
+.nav{
+    background-color: yellow;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    clear: left;
+}
+
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 30px;
+}
